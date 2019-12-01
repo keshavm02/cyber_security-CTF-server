@@ -13,3 +13,5 @@
 Open the Docker app
 
 `docker-compose up`
+
+Navigate to localhost:8000
